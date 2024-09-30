@@ -11,11 +11,11 @@ The admin can keep adding questions until they decide to quit and students are p
 
 ## System User:
 - Admin: Can save MCQ questions with answer
-- Student: Can answer the saved question by admin minimum 10 and get the marks.
+- Student: Can answer the saved question by admin minimum of ten questions and get the marks.
 
 ## Assigned Task:
-- **For Admin:** As an admin logged in user, until you press 'q' from keyboard, you can add multiple MCQ. Add atleast 30 questions in quiz bank. The 30 questions must be SQA related questions.
-- **For Student:** When login as a student to the system, system will generate 10 random questions from the quiz bank.
+- **For Admin:** As an admin logged-in user, until you press 'q' from the keyboard and can add multiple MCQs. Add at least 30 questions to the quiz bank. The 30 questions must be SQA-related questions.
+- **For Students:** When a user student logs in to the system, the system generates ten random questions from the quiz bank.
 
 
 ## Project Video
